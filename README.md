@@ -1,4 +1,4 @@
-# 🐒 Monkeypox Diagnosis using Deep Learning
+#  Monkeypox Diagnosis using Deep Learning
 
 ## 📌 Overview
 This project presents an **AI-based Monkeypox Detection System** that classifies skin lesion images as **Monkeypox** or **Normal** using **deep learning models**.  
